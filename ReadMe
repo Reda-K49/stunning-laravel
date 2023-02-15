@@ -1,1 +1,6 @@
 findings and answers:
+
+-checkpoint 3 q2: No it did not work.
+To make it work, you first write: wget -O composer-setup.php https://getcomposer.org/installer
+Then you use that command in the document but add 'composer-setup.php' after the 'sudo php' after the pipe to specify the file.
+
