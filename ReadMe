@@ -4,3 +4,4 @@ findings and answers:
 To make it work, you first write: wget -O composer-setup.php https://getcomposer.org/installer
 Then you use that command in the document but add 'composer-setup.php' after the 'sudo php' after the pipe to specify the file.
 
+checkpoint 4 q2: I used command 'sudo cp .env.example .env'
